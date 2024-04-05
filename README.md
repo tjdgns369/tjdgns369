@@ -6,6 +6,6 @@
 ## Skill💻
 <ul>
   <li>Front-End: html/css, JavaScript</li>
-  <li>Back-End: Java</li>
+  <li>Back-End: Java, Servlet</li>
   <li>Database:Oracle</li>
 </ul>
