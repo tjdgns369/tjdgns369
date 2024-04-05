@@ -22,20 +22,6 @@
    <li>Tourapi에서 전남관광지 데이터 Crawling</li>
    <li>JSP와 Servlet을 통한 게시판 CRUD Backend구현</li>
 
-
-
-
-<table>
-  <tr>
-    <th>Mini_Project (2024.01.31 ~ 2024.02.02)</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td>Java MVC패턴을 통한 로그인 기능 구현</td>
-    <td>크롤링</td>
-  </tr>
-  <tr>
-    <td>두 곡 동시 재생기능 Backend구현</td>
-    <td></td>
-  </tr>
-</table>
+  <h3>🎵 Main_Project (2024.01.31 ~ 2024.02.02</h3>
+   <li>Java MVC패턴을 통한 로그인 기능 구현</li>
+   <li>두 곡 동시 재생기능 Backend구현</li>
