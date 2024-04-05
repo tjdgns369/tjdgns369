@@ -31,8 +31,4 @@
     <td>두 곡 동시 재생기능 Backend구현</td>
     <td>JSP와 Servlet을 통한 게시판 CRUD Backend구현</td>
   </tr>
-  <tr>
-    <td>Cell7</td>
-    <td>Cell8</td>
-  </tr>
 </table>
