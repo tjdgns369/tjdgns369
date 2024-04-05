@@ -18,7 +18,7 @@
 
 ## Project
 
-<table style="float:left">
+<table>
   <tr>
     <th>Mini_Project (2024.01.31 ~ 2024.02.02)</th>
     <th>Main_Project (2024.03.20 ~ 2024.04.04)</th>
