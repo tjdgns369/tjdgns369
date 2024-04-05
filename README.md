@@ -21,7 +21,7 @@
 
 ## Project
 <ul>
-  <li>Mini_Project</li>
+  <li>Mini_Project(2024.01.31 ~ 2024.02.02)</li>
   
   <li>Main_Project</li>
     
