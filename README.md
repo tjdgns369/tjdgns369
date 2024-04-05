@@ -17,6 +17,32 @@
 </ul>
 
 ## Project
+
+<table style="float:left">
+  <tr>
+    <th>Mini_Project (2024.01.31 ~ 2024.02.02)<br>
+      dd
+    </th>
+    <th>Main_Project (2024.03.20 ~ 2024.04.04)</th>
+  </tr>
+  <tr>
+    <td>Java MVC패턴을 통한 로그인 기능 구현 및 두곡 동시 재생기능 Backend구현</td>
+    <td>Cell2</td>
+    <td>Cell3</td>
+  </tr>
+  <tr>
+    <td>Cell4</td>
+    <td>Cell5</td>
+    <td>Cell6</td>
+  </tr>
+  <tr>
+    <td>Cell7</td>
+    <td>Cell8</td>
+    <td>Cell9</td>
+  </tr>
+</table>
+
+
 <table>
   <tr> Mini_Project (2024.01.31 ~ 2024.02.02)
     <td>
@@ -26,8 +52,8 @@
   </tr>
   <tr> Main_Project (2024.03.20 ~ 2024.04.04)
        <td>
-      <li>로그인 기능 구현</li>
-      <li>Java를 이용한 음악 두곡 동시 재생 기능 Backend구현</li>
+      <li> 크롤링</li>
+      <li>JSP와 Servlet을 통한 게시판 CRUD Backend구현</li>
     </td>
   </tr>
 </table>
