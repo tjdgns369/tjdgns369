@@ -19,7 +19,13 @@
 ## Project
 <table>
   <tr> Mini_Project (2024.01.31 ~ 2024.02.02)
-    <td>로그인기능 구현</td>
+    <td>
+      Mini_Project (2024.01.31 ~ 2024.02.02)
+    </td>
+
+        <td>
+      Mini_Project (2024.01.31 ~ 2024.02.02)
+    </td>
   </tr>
   <tr> Main_Project (2024.01.31 ~ 2024.02.02)
     <td>로그인기능 구현</td>
