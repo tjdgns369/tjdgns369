@@ -3,7 +3,7 @@
   <li>내 자신과의 싸움이 어렵지만..."끝내 이기리라" </li>
   <li>"깨치고 나아가 끝내"... 풀스택 개발자가 되고싶습니다.✌️</li>
   
-## Skill💻
+## 💻 Skill
 <ul>
   <li>Front-End</li>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <br>
@@ -16,13 +16,15 @@
     <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> <br>
 </ul>
 
-## Project
+## 💻 Project
 
-  <h3>🚌Main_Project (2024.03.20 ~ 2024.04.04)</h3>
+  <h3>🚌 WELLNESS_ROAD: 여행스케쥴관리프로그램 </h3>
+  (2024.03.20 ~ 2024.04.04)
    <li>Tourapi에서 전남관광지 데이터 Crawling</li>
    <li>JSP와 Servlet을 통한 게시판 CRUD Backend구현</li>
 
-  <h3>🎵 Main_Project (2024.01.31 ~ 2024.02.02</h3>
+  <h3> 🎵 MUSIC GAME </h3>
+  (2024.01.31 ~ 2024.02.02)
   
   ![mini](https://github.com/tjdgns369/tjdgns369/assets/157602770/46c31e75-ee12-4df7-80a8-73d13bd018b8)
 
