@@ -18,7 +18,7 @@
 ## 💻 Project
 
   <h3>🚌 WELLNESS_ROAD: 여행스케쥴관리프로그램 </h3>
-  <li> <h3>기간: 2024.03.20 ~ 2024.04.04 </h3> </li><br>
+  <li> <h3>기간: 2024.03.20 ~ 2024.04.04 </h3> </li>
   <li> <h3>역할: Backend </h3> </li><br>
 
   ![well](https://github.com/tjdgns369/tjdgns369/assets/157602770/bc2f4356-2463-487b-981d-6d39562cccac)
@@ -26,7 +26,7 @@
    <li>JSP와 Servlet을 통한 게시판 CRUD Backend구현</li>
 
   <h3> 🎵 MUSIC GAME </h3>
-  <li> <h3> 기간: 2024.01.31 ~ 2024.02.02 </h3> </li><br>
+  <li> <h3> 기간: 2024.01.31 ~ 2024.02.02 </h3> </li>
   <li> <h3> 역할: Backend </h3> </li><br>
   
   ![mini](https://github.com/tjdgns369/tjdgns369/assets/157602770/46c31e75-ee12-4df7-80a8-73d13bd018b8)
