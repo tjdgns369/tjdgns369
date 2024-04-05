@@ -5,7 +5,9 @@
   <li>"깨치고 나아가 끝내"... 풀스택 개발자가 되고싶습니다.✌️</li>
 </ul>
 
-<table>
-  <tr>Back-End</tr>
-  <tr>모르겠는데</tr>
-</table>
+## Skill🪛
+<ul>
+  <li>Back-End: </li>
+  <li>Front-End:  </li>
+  <li>Database:</li>
+</ul>
