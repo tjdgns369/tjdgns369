@@ -20,25 +20,20 @@
 
 <table style="float:left">
   <tr>
-    <th>Mini_Project (2024.01.31 ~ 2024.02.02)<br>
-      dd
-    </th>
+    <th>Mini_Project (2024.01.31 ~ 2024.02.02)</th>
     <th>Main_Project (2024.03.20 ~ 2024.04.04)</th>
   </tr>
   <tr>
     <td>Java MVC패턴을 통한 로그인 기능 구현 및 두곡 동시 재생기능 Backend구현</td>
     <td>Cell2</td>
-    <td>Cell3</td>
   </tr>
   <tr>
     <td>Cell4</td>
     <td>Cell5</td>
-    <td>Cell6</td>
   </tr>
   <tr>
     <td>Cell7</td>
     <td>Cell8</td>
-    <td>Cell9</td>
   </tr>
 </table>
 
