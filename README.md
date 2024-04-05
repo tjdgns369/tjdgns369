@@ -21,10 +21,13 @@
   <tr> Mini_Project (2024.01.31 ~ 2024.02.02)
     <td>
       <li>로그인 기능 구현</li>
-      <li>Java를 이용한 음악 두곡 동시 재생 기능 구현</li>
+      <li>Java를 이용한 음악 두곡 동시 재생 기능 Backend구현</li>
     </td>
   </tr>
-  <tr> Main_Project (2024.01.31 ~ 2024.02.02)
-    <td>로그인기능 구현</td>
+  <tr> Main_Project (2024.03.20 ~ 2024.04.04)
+       <td>
+      <li>로그인 기능 구현</li>
+      <li>Java를 이용한 음악 두곡 동시 재생 기능 Backend구현</li>
+    </td>
   </tr>
 </table>
