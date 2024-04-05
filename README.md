@@ -23,5 +23,7 @@
    <li>JSP와 Servlet을 통한 게시판 CRUD Backend구현</li>
 
   <h3>🎵 Main_Project (2024.01.31 ~ 2024.02.02</h3>
+  ![미니프로젝트](https://github.com/tjdgns369/tjdgns369/assets/157602770/db3c08f1-e4d4-407e-b4a6-6fc88d87f080)
+
    <li>Java MVC패턴을 통한 로그인 기능 구현</li>
    <li>두 곡 동시 재생기능 Backend구현</li>
