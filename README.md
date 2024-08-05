@@ -37,19 +37,39 @@
 </div>
 
 ## 💻 Project
+ <h3>🌞 Assemble: 딥러닝 모델을 통한 태양광 발전량 예측 솔루션</h3>
+ 
+  <ul>
+    <li><h4>기간: 2024.05.27 ~ 2024.06.20 </h4></li>
+    <li><h4>역할: Frontend, Backend</h4></li>
+    <li>https://github.com/tjdgns369/ASSEMBLE</li>
+  </ul>
 
+  ![image](https://github.com/user-attachments/assets/9d251da9-f793-4454-b172-383d84f1c98b)
+
+
+   <li>Spring Framework를 기반으로 로그인 / 게시판(CRUD) / 회원정보 수정 / 메인페이지-뉴스보드 디자인 및 기능 구현</li>
+   <li>Bootstrap을 활용하여 반응형 웹 디자인</li>
+  
   <h3>🚌 WELLNESS_ROAD: 여행스케쥴관리프로그램 </h3>
-  <li> <h3>기간: 2024.03.20 ~ 2024.04.04 </h3> </li>
-  <li> <h3>역할: Backend </h3> </li><br>
+  <ul>
+    <li><h4>기간: 2024.03.20 ~ 2024.04.04 </h4></li>
+    <li><h4>역할: Backend</h4></li>
+    <li>https://github.com/tjdgns369/wellnessRoad</li>
+  </ul>
 
-  ![well](https://github.com/tjdgns369/tjdgns369/assets/157602770/bc2f4356-2463-487b-981d-6d39562cccac)
+  ![image](https://github.com/user-attachments/assets/adce29d9-07dd-45f0-9a61-c6f7356e1378)
+
    <li>Tourapi에서 전남관광지 데이터 Crawling</li>
-   <li>JSP와 Servlet을 통한 게시판 CRUD Backend구현</li>
+   <li>JSP와 Servlet을 활용하여 게시판의 CRUD (Create, Read, Update, Delete) 기능과 페이징 작업, 이미지 첨부 기능을 MVC 패턴으로 구현</li>
 
   <h3> 🎵 MUSIC GAME </h3>
-  <li> <h3> 기간: 2024.01.31 ~ 2024.02.02 </h3> </li>
-  <li> <h3> 역할: Backend </h3> </li><br>
+    <ul>
+    <li><h4> 기간: 2024.01.31 ~ 2024.02.02 </h4></li>
+    <li><h4>역할: Backend</h4></li>
+  </ul>
   
   ![mini](https://github.com/tjdgns369/tjdgns369/assets/157602770/46c31e75-ee12-4df7-80a8-73d13bd018b8)
+  
    <li>Java MVC패턴을 통한 로그인 기능 구현</li>
    <li>두 곡 동시 재생기능 Backend구현</li>
