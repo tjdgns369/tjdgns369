@@ -37,8 +37,8 @@
 </div>
 
 ## 💻 Project
- <h3>🌞 Assemble: 딥러닝 모델을 통한 태양광 발전량 예측 솔루션</h3>
- 
+
+ <h2>🌞 Assemble: 딥러닝 모델을 통한 태양광 발전량 예측 솔루션</h2>
   <ul>
     <li><h4>기간: 2024.05.27 ~ 2024.06.20 </h4></li>
     <li><h4>역할: Frontend, Backend</h4></li>
@@ -50,8 +50,8 @@
 
    <li>Spring Framework를 기반으로 로그인 / 게시판(CRUD) / 회원정보 수정 / 메인페이지-뉴스보드 디자인 및 기능 구현</li>
    <li>Bootstrap을 활용하여 반응형 웹 디자인</li>
-  
-  <h3>🚌 WELLNESS_ROAD: 여행스케쥴관리프로그램 </h3>
+  <hr>
+  <h2>🚌 WELLNESS_ROAD: 여행스케쥴관리프로그램 </h2>
   <ul>
     <li><h4>기간: 2024.03.20 ~ 2024.04.04 </h4></li>
     <li><h4>역할: Backend</h4></li>
@@ -62,8 +62,8 @@
 
    <li>Tourapi에서 전남관광지 데이터 Crawling</li>
    <li>JSP와 Servlet을 활용하여 게시판의 CRUD (Create, Read, Update, Delete) 기능과 페이징 작업, 이미지 첨부 기능을 MVC 패턴으로 구현</li>
-
-  <h3> 🎵 MUSIC GAME </h3>
+<hr>
+  <h2> 🎵 MUSIC GAME </h2>
     <ul>
     <li><h4> 기간: 2024.01.31 ~ 2024.02.02 </h4></li>
     <li><h4>역할: Backend</h4></li>
